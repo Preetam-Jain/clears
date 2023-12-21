@@ -1,0 +1,1119 @@
+{
+    "query": "Cristiano Ronaldo",
+    "pageNumber": 1,
+    "lastPageNumber": 1,
+    "results": [
+        {
+            "id": "8198",
+            "name": "Cristiano Ronaldo",
+            "position": "CF",
+            "club": {
+                "id": "18544",
+                "name": "Al-Nassr FC"
+            },
+            "age": "38",
+            "nationality": "Cristiano Ronaldo",
+            "marketValue": "€15.00m"
+        }
+    ],
+    "updatedAt": "2023-12-20T18:41:50.821390"
+}
+
+{
+    "id": "8198",
+    "stats": [
+        {
+            "competitionID": "SAKC",
+            "clubID": "18544",
+            "seasonID": "23/24",
+            "competitionName": "King's Cup",
+            "appearances": "2",
+            "goals": "1",
+            "yellowCards": "1",
+            "minutesPlayed": "202'"
+        },
+        {
+            "competitionID": "SA1",
+            "clubID": "18544",
+            "seasonID": "23/24",
+            "competitionName": "Saudi Pro League",
+            "appearances": "15",
+            "goals": "16",
+            "assists": "8",
+            "minutesPlayed": "1.346'"
+        },
+        {
+            "competitionID": "AFCL",
+            "clubID": "18544",
+            "seasonID": "23/24",
+            "competitionName": "AFC Champions League",
+            "appearances": "4",
+            "goals": "3",
+            "assists": "1",
+            "minutesPlayed": "348'"
+        },
+        {
+            "competitionID": "ACLQ",
+            "clubID": "18544",
+            "seasonID": "23/24",
+            "competitionName": "AFC CL-Qualification",
+            "appearances": "1",
+            "assists": "1",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "SA1",
+            "clubID": "18544",
+            "seasonID": "22/23",
+            "competitionName": "Saudi Pro League",
+            "appearances": "16",
+            "goals": "14",
+            "assists": "2",
+            "yellowCards": "3",
+            "minutesPlayed": "1.434'"
+        },
+        {
+            "competitionID": "SAKC",
+            "clubID": "18544",
+            "seasonID": "22/23",
+            "competitionName": "King's Cup",
+            "appearances": "2",
+            "yellowCards": "1",
+            "minutesPlayed": "177'"
+        },
+        {
+            "competitionID": "SASS",
+            "clubID": "18544",
+            "seasonID": "22/23",
+            "competitionName": "Saudi Super Cup",
+            "appearances": "1",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "22/23",
+            "competitionName": "Premier League",
+            "appearances": "10",
+            "goals": "1",
+            "yellowCards": "2",
+            "minutesPlayed": "520'"
+        },
+        {
+            "competitionID": "EL",
+            "clubID": "985",
+            "seasonID": "22/23",
+            "competitionName": "Europa League",
+            "appearances": "6",
+            "goals": "2",
+            "assists": "2",
+            "yellowCards": "1",
+            "minutesPlayed": "531'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "21/22",
+            "competitionName": "Premier League",
+            "appearances": "30",
+            "goals": "18",
+            "assists": "3",
+            "yellowCards": "8",
+            "minutesPlayed": "2.459'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "21/22",
+            "competitionName": "Champions League",
+            "appearances": "7",
+            "goals": "6",
+            "yellowCards": "1",
+            "minutesPlayed": "612'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "21/22",
+            "competitionName": "FA Cup",
+            "appearances": "1",
+            "minutesPlayed": "120'"
+        },
+        {
+            "competitionID": "IT1",
+            "clubID": "506",
+            "seasonID": "21/22",
+            "competitionName": "Serie A",
+            "appearances": "1",
+            "yellowCards": "1",
+            "minutesPlayed": "30'"
+        },
+        {
+            "competitionID": "IT1",
+            "clubID": "506",
+            "seasonID": "20/21",
+            "competitionName": "Serie A",
+            "appearances": "33",
+            "goals": "29",
+            "assists": "2",
+            "yellowCards": "3",
+            "minutesPlayed": "2.803'"
+        },
+        {
+            "competitionID": "CIT",
+            "clubID": "506",
+            "seasonID": "20/21",
+            "competitionName": "Italy Cup",
+            "appearances": "4",
+            "goals": "2",
+            "yellowCards": "1",
+            "minutesPlayed": "288'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "506",
+            "seasonID": "20/21",
+            "competitionName": "Champions League",
+            "appearances": "6",
+            "goals": "4",
+            "assists": "2",
+            "minutesPlayed": "570'"
+        },
+        {
+            "competitionID": "SCI",
+            "clubID": "506",
+            "seasonID": "20/21",
+            "competitionName": "Supercoppa Italiana",
+            "appearances": "1",
+            "goals": "1",
+            "yellowCards": "1",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "506",
+            "seasonID": "19/20",
+            "competitionName": "Champions League",
+            "appearances": "8",
+            "goals": "4",
+            "assists": "1",
+            "minutesPlayed": "712'"
+        },
+        {
+            "competitionID": "IT1",
+            "clubID": "506",
+            "seasonID": "19/20",
+            "competitionName": "Serie A",
+            "appearances": "33",
+            "goals": "31",
+            "assists": "6",
+            "yellowCards": "3",
+            "minutesPlayed": "2.919'"
+        },
+        {
+            "competitionID": "CIT",
+            "clubID": "506",
+            "seasonID": "19/20",
+            "competitionName": "Italy Cup",
+            "appearances": "4",
+            "goals": "2",
+            "minutesPlayed": "360'"
+        },
+        {
+            "competitionID": "SCI",
+            "clubID": "506",
+            "seasonID": "19/20",
+            "competitionName": "Supercoppa Italiana",
+            "appearances": "1",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "IT1",
+            "clubID": "506",
+            "seasonID": "18/19",
+            "competitionName": "Serie A",
+            "appearances": "31",
+            "goals": "21",
+            "assists": "9",
+            "yellowCards": "3",
+            "minutesPlayed": "2.689'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "506",
+            "seasonID": "18/19",
+            "competitionName": "Champions League",
+            "appearances": "9",
+            "goals": "6",
+            "assists": "2",
+            "yellowCards": "1",
+            "redCards": "1",
+            "minutesPlayed": "749'"
+        },
+        {
+            "competitionID": "CIT",
+            "clubID": "506",
+            "seasonID": "18/19",
+            "competitionName": "Italy Cup",
+            "appearances": "2",
+            "minutesPlayed": "118'"
+        },
+        {
+            "competitionID": "SCI",
+            "clubID": "506",
+            "seasonID": "18/19",
+            "competitionName": "Supercoppa Italiana",
+            "appearances": "1",
+            "goals": "1",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "17/18",
+            "competitionName": "Champions League",
+            "appearances": "13",
+            "goals": "15",
+            "assists": "3",
+            "yellowCards": "2",
+            "minutesPlayed": "1.170'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "17/18",
+            "competitionName": "LaLiga",
+            "appearances": "27",
+            "goals": "26",
+            "assists": "5",
+            "yellowCards": "1",
+            "minutesPlayed": "2.297'"
+        },
+        {
+            "competitionID": "KLUB",
+            "clubID": "418",
+            "seasonID": "17/18",
+            "competitionName": "Club World Cup",
+            "appearances": "2",
+            "goals": "2",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "SUC",
+            "clubID": "418",
+            "seasonID": "17/18",
+            "competitionName": "Supercopa",
+            "appearances": "1",
+            "goals": "1",
+            "secondYellowCards": "1",
+            "minutesPlayed": "24'"
+        },
+        {
+            "competitionID": "USC",
+            "clubID": "418",
+            "seasonID": "17/18",
+            "competitionName": "UEFA Super Cup",
+            "appearances": "1",
+            "minutesPlayed": "7'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "16/17",
+            "competitionName": "Champions League",
+            "appearances": "13",
+            "goals": "12",
+            "assists": "6",
+            "yellowCards": "1",
+            "minutesPlayed": "1.200'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "16/17",
+            "competitionName": "LaLiga",
+            "appearances": "29",
+            "goals": "25",
+            "assists": "6",
+            "yellowCards": "4",
+            "minutesPlayed": "2.544'"
+        },
+        {
+            "competitionID": "CDR",
+            "clubID": "418",
+            "seasonID": "16/17",
+            "competitionName": "Copa del Rey",
+            "appearances": "2",
+            "goals": "1",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "KLUB",
+            "clubID": "418",
+            "seasonID": "16/17",
+            "competitionName": "Club World Cup",
+            "appearances": "2",
+            "goals": "4",
+            "minutesPlayed": "202'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "15/16",
+            "competitionName": "Champions League",
+            "appearances": "12",
+            "goals": "16",
+            "assists": "4",
+            "yellowCards": "1",
+            "minutesPlayed": "1.109'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "15/16",
+            "competitionName": "LaLiga",
+            "appearances": "36",
+            "goals": "35",
+            "assists": "11",
+            "yellowCards": "2",
+            "minutesPlayed": "3.184'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "14/15",
+            "competitionName": "LaLiga",
+            "appearances": "35",
+            "goals": "48",
+            "assists": "17",
+            "yellowCards": "4",
+            "redCards": "1",
+            "minutesPlayed": "3.099'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "14/15",
+            "competitionName": "Champions League",
+            "appearances": "12",
+            "goals": "10",
+            "assists": "4",
+            "yellowCards": "1",
+            "minutesPlayed": "1.065'"
+        },
+        {
+            "competitionID": "CDR",
+            "clubID": "418",
+            "seasonID": "14/15",
+            "competitionName": "Copa del Rey",
+            "appearances": "2",
+            "goals": "1",
+            "minutesPlayed": "117'"
+        },
+        {
+            "competitionID": "KLUB",
+            "clubID": "418",
+            "seasonID": "14/15",
+            "competitionName": "Club World Cup",
+            "appearances": "2",
+            "assists": "2",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "SUC",
+            "clubID": "418",
+            "seasonID": "14/15",
+            "competitionName": "Supercopa",
+            "appearances": "2",
+            "yellowCards": "1",
+            "minutesPlayed": "89'"
+        },
+        {
+            "competitionID": "USC",
+            "clubID": "418",
+            "seasonID": "14/15",
+            "competitionName": "UEFA Super Cup",
+            "appearances": "1",
+            "goals": "2",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "13/14",
+            "competitionName": "Champions League",
+            "appearances": "11",
+            "goals": "17",
+            "assists": "5",
+            "yellowCards": "1",
+            "minutesPlayed": "993'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "13/14",
+            "competitionName": "LaLiga",
+            "appearances": "30",
+            "goals": "31",
+            "assists": "11",
+            "yellowCards": "4",
+            "redCards": "1",
+            "minutesPlayed": "2.540'"
+        },
+        {
+            "competitionID": "CDR",
+            "clubID": "418",
+            "seasonID": "13/14",
+            "competitionName": "Copa del Rey",
+            "appearances": "6",
+            "goals": "3",
+            "assists": "1",
+            "yellowCards": "2",
+            "minutesPlayed": "497'"
+        },
+        {
+            "competitionID": "CDR",
+            "clubID": "418",
+            "seasonID": "12/13",
+            "competitionName": "Copa del Rey",
+            "appearances": "7",
+            "goals": "7",
+            "assists": "1",
+            "yellowCards": "3",
+            "redCards": "1",
+            "minutesPlayed": "655'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "12/13",
+            "competitionName": "LaLiga",
+            "appearances": "34",
+            "goals": "34",
+            "assists": "11",
+            "yellowCards": "9",
+            "minutesPlayed": "2.716'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "12/13",
+            "competitionName": "Champions League",
+            "appearances": "12",
+            "goals": "12",
+            "assists": "1",
+            "yellowCards": "1",
+            "minutesPlayed": "1.080'"
+        },
+        {
+            "competitionID": "SUC",
+            "clubID": "418",
+            "seasonID": "12/13",
+            "competitionName": "Supercopa",
+            "appearances": "2",
+            "goals": "2",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "11/12",
+            "competitionName": "LaLiga",
+            "appearances": "38",
+            "goals": "46",
+            "assists": "12",
+            "yellowCards": "4",
+            "minutesPlayed": "3.354'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "11/12",
+            "competitionName": "Champions League",
+            "appearances": "10",
+            "goals": "10",
+            "assists": "3",
+            "yellowCards": "1",
+            "minutesPlayed": "930'"
+        },
+        {
+            "competitionID": "CDR",
+            "clubID": "418",
+            "seasonID": "11/12",
+            "competitionName": "Copa del Rey",
+            "appearances": "5",
+            "goals": "3",
+            "yellowCards": "1",
+            "minutesPlayed": "438'"
+        },
+        {
+            "competitionID": "SUC",
+            "clubID": "418",
+            "seasonID": "11/12",
+            "competitionName": "Supercopa",
+            "appearances": "2",
+            "goals": "1",
+            "yellowCards": "1",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "10/11",
+            "competitionName": "LaLiga",
+            "appearances": "34",
+            "goals": "40",
+            "assists": "13",
+            "yellowCards": "2",
+            "minutesPlayed": "2.913'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "10/11",
+            "competitionName": "Champions League",
+            "appearances": "12",
+            "goals": "6",
+            "assists": "4",
+            "yellowCards": "2",
+            "minutesPlayed": "1.021'"
+        },
+        {
+            "competitionID": "CDR",
+            "clubID": "418",
+            "seasonID": "10/11",
+            "competitionName": "Copa del Rey",
+            "appearances": "8",
+            "goals": "7",
+            "assists": "1",
+            "yellowCards": "3",
+            "minutesPlayed": "684'"
+        },
+        {
+            "competitionID": "ES1",
+            "clubID": "418",
+            "seasonID": "09/10",
+            "competitionName": "LaLiga",
+            "appearances": "29",
+            "goals": "26",
+            "assists": "9",
+            "yellowCards": "3",
+            "secondYellowCards": "1",
+            "redCards": "1",
+            "minutesPlayed": "2.465'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "418",
+            "seasonID": "09/10",
+            "competitionName": "Champions League",
+            "appearances": "6",
+            "goals": "7",
+            "assists": "1",
+            "minutesPlayed": "450'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "08/09",
+            "competitionName": "Champions League",
+            "appearances": "12",
+            "goals": "4",
+            "assists": "3",
+            "yellowCards": "2",
+            "minutesPlayed": "1.010'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "08/09",
+            "competitionName": "Premier League",
+            "appearances": "33",
+            "goals": "18",
+            "assists": "7",
+            "yellowCards": "5",
+            "secondYellowCards": "1",
+            "minutesPlayed": "2.745'"
+        },
+        {
+            "competitionID": "CGB",
+            "clubID": "985",
+            "seasonID": "08/09",
+            "competitionName": "League Cup",
+            "appearances": "4",
+            "goals": "2",
+            "yellowCards": "1",
+            "minutesPlayed": "240'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "08/09",
+            "competitionName": "FA Cup",
+            "appearances": "2",
+            "goals": "1",
+            "assists": "1",
+            "minutesPlayed": "144'"
+        },
+        {
+            "competitionID": "KLUB",
+            "clubID": "985",
+            "seasonID": "08/09",
+            "competitionName": "Club World Cup",
+            "appearances": "2",
+            "goals": "1",
+            "assists": "1",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "07/08",
+            "competitionName": "Champions League",
+            "appearances": "11",
+            "goals": "8",
+            "assists": "1",
+            "yellowCards": "2",
+            "minutesPlayed": "1.017'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "07/08",
+            "competitionName": "Premier League",
+            "appearances": "34",
+            "goals": "31",
+            "assists": "7",
+            "yellowCards": "5",
+            "redCards": "1",
+            "minutesPlayed": "2.747'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "07/08",
+            "competitionName": "FA Cup",
+            "appearances": "3",
+            "goals": "3",
+            "minutesPlayed": "270'"
+        },
+        {
+            "competitionID": "GBCS",
+            "clubID": "985",
+            "seasonID": "07/08",
+            "competitionName": "Community Shield",
+            "appearances": "1",
+            "minutesPlayed": "120'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "06/07",
+            "competitionName": "FA Cup",
+            "appearances": "7",
+            "goals": "3",
+            "assists": "1",
+            "minutesPlayed": "558'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "06/07",
+            "competitionName": "Premier League",
+            "appearances": "34",
+            "goals": "17",
+            "assists": "8",
+            "yellowCards": "2",
+            "minutesPlayed": "2.787'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "06/07",
+            "competitionName": "Champions League",
+            "appearances": "11",
+            "goals": "3",
+            "assists": "5",
+            "yellowCards": "3",
+            "minutesPlayed": "951'"
+        },
+        {
+            "competitionID": "CGB",
+            "clubID": "985",
+            "seasonID": "06/07",
+            "competitionName": "League Cup",
+            "appearances": "1",
+            "minutesPlayed": "90'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "05/06",
+            "competitionName": "Premier League",
+            "appearances": "33",
+            "goals": "9",
+            "assists": "6",
+            "yellowCards": "8",
+            "redCards": "1",
+            "minutesPlayed": "2.286'"
+        },
+        {
+            "competitionID": "CGB",
+            "clubID": "985",
+            "seasonID": "05/06",
+            "competitionName": "League Cup",
+            "appearances": "4",
+            "goals": "2",
+            "assists": "1",
+            "yellowCards": "1",
+            "minutesPlayed": "343'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "05/06",
+            "competitionName": "FA Cup",
+            "appearances": "2",
+            "minutesPlayed": "121'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "05/06",
+            "competitionName": "Champions League",
+            "appearances": "6",
+            "yellowCards": "1",
+            "minutesPlayed": "506'"
+        },
+        {
+            "competitionID": "CLQ",
+            "clubID": "985",
+            "seasonID": "05/06",
+            "competitionName": "Champions League Qu.",
+            "appearances": "2",
+            "goals": "1",
+            "assists": "1",
+            "minutesPlayed": "157'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "04/05",
+            "competitionName": "FA Cup",
+            "appearances": "7",
+            "goals": "4",
+            "assists": "3",
+            "yellowCards": "1",
+            "minutesPlayed": "545'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "04/05",
+            "competitionName": "Premier League",
+            "appearances": "33",
+            "goals": "5",
+            "assists": "4",
+            "yellowCards": "3",
+            "minutesPlayed": "2.425'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "04/05",
+            "competitionName": "Champions League",
+            "appearances": "7",
+            "assists": "2",
+            "minutesPlayed": "502'"
+        },
+        {
+            "competitionID": "CGB",
+            "clubID": "985",
+            "seasonID": "04/05",
+            "competitionName": "League Cup",
+            "appearances": "2",
+            "yellowCards": "1",
+            "minutesPlayed": "180'"
+        },
+        {
+            "competitionID": "CLQ",
+            "clubID": "985",
+            "seasonID": "04/05",
+            "competitionName": "Champions League Qu.",
+            "appearances": "1",
+            "minutesPlayed": "64'"
+        },
+        {
+            "competitionID": "FAC",
+            "clubID": "985",
+            "seasonID": "03/04",
+            "competitionName": "FA Cup",
+            "appearances": "5",
+            "goals": "2",
+            "assists": "3",
+            "minutesPlayed": "436'"
+        },
+        {
+            "competitionID": "GB1",
+            "clubID": "985",
+            "seasonID": "03/04",
+            "competitionName": "Premier League",
+            "appearances": "29",
+            "goals": "4",
+            "assists": "4",
+            "yellowCards": "3",
+            "secondYellowCards": "1",
+            "minutesPlayed": "1.551'"
+        },
+        {
+            "competitionID": "CL",
+            "clubID": "985",
+            "seasonID": "03/04",
+            "competitionName": "Champions League",
+            "appearances": "5",
+            "assists": "1",
+            "minutesPlayed": "291'"
+        },
+        {
+            "competitionID": "CGB",
+            "clubID": "985",
+            "seasonID": "03/04",
+            "competitionName": "League Cup",
+            "appearances": "1",
+            "minutesPlayed": "77'"
+        },
+        {
+            "competitionID": "PO1",
+            "clubID": "336",
+            "seasonID": "02/03",
+            "competitionName": "SuperLiga",
+            "appearances": "25",
+            "goals": "3",
+            "assists": "5",
+            "yellowCards": "1",
+            "minutesPlayed": "1.069'"
+        },
+        {
+            "competitionID": "POPO",
+            "clubID": "336",
+            "seasonID": "02/03",
+            "competitionName": "Taça de Portugal",
+            "appearances": "3",
+            "goals": "2",
+            "minutesPlayed": "172'"
+        },
+        {
+            "competitionID": "UEFA",
+            "clubID": "336",
+            "seasonID": "02/03",
+            "competitionName": "UEFA Cup",
+            "appearances": "2",
+            "assists": "1",
+            "minutesPlayed": "118'"
+        },
+        {
+            "competitionID": "POSU",
+            "clubID": "336",
+            "seasonID": "02/03",
+            "competitionName": "Supertaça"
+        },
+        {
+            "competitionID": "CLQ",
+            "clubID": "336",
+            "seasonID": "02/03",
+            "competitionName": "Champions League Qu.",
+            "appearances": "1",
+            "minutesPlayed": "32'"
+        }
+    ],
+    "updatedAt": "2023-12-20T18:43:09.905545"
+}
+
+{
+    "id": "8198",
+    "transfers": [
+        {
+            "id": "4197140",
+            "from": {
+                "clubID": "515",
+                "clubName": "Without Club"
+            },
+            "to": {
+                "clubID": "18544",
+                "clubName": "Al-Nassr"
+            },
+            "date": "Jan 1, 2023",
+            "upcoming": false,
+            "season": "22/23",
+            "marketValue": "€20.00m"
+        },
+        {
+            "id": "4152208",
+            "from": {
+                "clubID": "985",
+                "clubName": "Man Utd"
+            },
+            "to": {
+                "clubID": "515",
+                "clubName": "Without Club"
+            },
+            "date": "Nov 22, 2022",
+            "upcoming": false,
+            "season": "22/23",
+            "marketValue": "€20.00m"
+        },
+        {
+            "id": "3527714",
+            "from": {
+                "clubID": "506",
+                "clubName": "Juventus"
+            },
+            "to": {
+                "clubID": "985",
+                "clubName": "Man Utd"
+            },
+            "date": "Aug 31, 2021",
+            "upcoming": false,
+            "season": "21/22",
+            "marketValue": "€45.00m",
+            "fee": "€17.00m"
+        },
+        {
+            "id": "2168965",
+            "from": {
+                "clubID": "418",
+                "clubName": "Real Madrid"
+            },
+            "to": {
+                "clubID": "506",
+                "clubName": "Juventus"
+            },
+            "date": "Jul 10, 2018",
+            "upcoming": false,
+            "season": "18/19",
+            "marketValue": "€100.00m",
+            "fee": "€117.00m"
+        },
+        {
+            "id": "308498",
+            "from": {
+                "clubID": "985",
+                "clubName": "Man Utd"
+            },
+            "to": {
+                "clubID": "418",
+                "clubName": "Real Madrid"
+            },
+            "date": "Jul 6, 2009",
+            "upcoming": false,
+            "season": "09/10",
+            "marketValue": "€60.00m",
+            "fee": "€94.00m"
+        },
+        {
+            "id": "12071",
+            "from": {
+                "clubID": "336",
+                "clubName": "Sporting CP"
+            },
+            "to": {
+                "clubID": "985",
+                "clubName": "Man Utd"
+            },
+            "date": "Aug 12, 2003",
+            "upcoming": false,
+            "season": "03/04",
+            "fee": "€19.00m"
+        },
+        {
+            "id": "23367",
+            "from": {
+                "clubID": "10283",
+                "clubName": "Sporting U19"
+            },
+            "to": {
+                "clubID": "336",
+                "clubName": "Sporting CP"
+            },
+            "date": "Jul 1, 2002",
+            "upcoming": false,
+            "season": "02/03"
+        },
+        {
+            "id": "1231081",
+            "from": {
+                "clubID": "48365",
+                "clubName": "Sporting U17"
+            },
+            "to": {
+                "clubID": "10283",
+                "clubName": "Sporting U19"
+            },
+            "date": "Jul 1, 2000",
+            "upcoming": false,
+            "season": "00/01"
+        },
+        {
+            "id": "1540403",
+            "from": {
+                "clubID": "53956",
+                "clubName": "Sporting Sub-15"
+            },
+            "to": {
+                "clubID": "48365",
+                "clubName": "Sporting U17"
+            },
+            "date": "Jul 1, 1998",
+            "upcoming": false,
+            "season": "98/99"
+        },
+        {
+            "id": "1680678",
+            "from": {
+                "clubID": "57926",
+                "clubName": "Nacional U15"
+            },
+            "to": {
+                "clubID": "53956",
+                "clubName": "Sporting Sub-15"
+            },
+            "date": "Jul 1, 1997",
+            "upcoming": false,
+            "season": "97/98",
+            "fee": "?"
+        },
+        {
+            "id": "3531985",
+            "from": {
+                "clubID": "63438",
+                "clubName": "Nacional Yth."
+            },
+            "to": {
+                "clubID": "57926",
+                "clubName": "Nacional U15"
+            },
+            "date": "Jul 1, 1996",
+            "upcoming": false,
+            "season": "96/97"
+        },
+        {
+            "id": "3927809",
+            "from": {
+                "clubID": "100646",
+                "clubName": "Andorinha Yth."
+            },
+            "to": {
+                "clubID": "63438",
+                "clubName": "Nacional Yth."
+            },
+            "date": "Jul 1, 1995",
+            "upcoming": false,
+            "season": "95/96",
+            "fee": "free transfer"
+        }
+    ],
+    "youthClubs": [
+        "CF Andorinha (1992-1995)"
+    ],
+    "updatedAt": "2023-12-20T18:45:40.851617"
+}
