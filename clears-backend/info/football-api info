@@ -1,0 +1,117 @@
+League ID's
+League 1: 61
+Premier League - 39 
+Serie A - 135
+Bundesliga - 78
+La Liga - 140 
+
+Lionel Messi - La Liga (FC Barcelona)
+Cristiano Ronaldo - Premier League (Manchester United) / La Liga (Real Madrid)
+Zlatan Ibrahimović - Serie A (AC Milan / Inter Milan / Juventus)
+Andrés Iniesta - La Liga (FC Barcelona)
+Xavi - La Liga (FC Barcelona)
+Ronaldinho - La Liga (FC Barcelona)
+Neymar - La Liga (FC Barcelona) / Ligue 1 (Paris Saint-Germain)
+Wayne Rooney - Premier League (Manchester United)
+Sergio Ramos - La Liga (Real Madrid)
+Iker Casillas - La Liga (Real Madrid)
+Gianluigi Buffon - Serie A (Juventus)
+Thierry Henry - Premier League (Arsenal)
+Steven Gerrard - Premier League (Liverpool)
+Frank Lampard - Premier League (Chelsea)
+Kaká - Serie A (AC Milan)
+Robert Lewandowski - Bundesliga (Bayern Munich)
+Luis Suárez - Premier League (Liverpool) / La Liga (FC Barcelona)
+Karim Benzema - La Liga (Real Madrid)
+Robin van Persie - Premier League (Arsenal / Manchester United)
+Didier Drogba - Premier League (Chelsea)
+Andrea Pirlo - Serie A (AC Milan / Juventus)
+Philipp Lahm - Bundesliga (Bayern Munich)
+Xabi Alonso - La Liga (Real Madrid) / Bundesliga (Bayern Munich)
+David Villa - La Liga (Valencia / FC Barcelona)
+Samuel Eto'o - La Liga (FC Barcelona) / Serie A (Inter Milan)
+Paolo Maldini - Serie A (AC Milan)
+Francesco Totti - Serie A (Roma)
+Alessandro Del Piero - Serie A (Juventus)
+Ruud van Nistelrooy - Premier League (Manchester United) / La Liga (Real Madrid)
+Fernando Torres - Premier League (Liverpool / Chelsea)
+Arjen Robben - Bundesliga (Bayern Munich) / Premier League (Chelsea)
+Gareth Bale - Premier League (Tottenham Hotspur) / La Liga (Real Madrid)
+Raúl - La Liga (Real Madrid)
+Carlos Tevez - Premier League (Manchester United / Manchester City)
+Petr Čech - Premier League (Chelsea)
+Michael Ballack - Bundesliga (Bayer Leverkusen / Bayern Munich) / Premier League (Chelsea)
+Rio Ferdinand - Premier League (Manchester United)
+Nemanja Vidić - Premier League (Manchester United)
+Vincent Kompany - Premier League (Manchester City)
+Paul Scholes - Premier League (Manchester United)
+Clarence Seedorf - Serie A (AC Milan)
+Eden Hazard - Premier League (Chelsea)
+Luka Modric - La Liga (Real Madrid)
+Toni Kroos - Bundesliga (Bayern Munich) / La Liga (Real Madrid)
+Sergio Agüero - Premier League (Manchester City)
+Zinédine Zidane - La Liga (Real Madrid)
+Dani Alves - La Liga (FC Barcelona)
+Marcelo - La Liga (Real Madrid)
+John Terry - Premier League (Chelsea)
+Carles Puyol - La Liga (FC Barcelona)
+
+League ID's
+League 1: 61
+Premier League - 39 
+Serie A - 135
+Bundesliga - 78
+La Liga - 140 
+
+Lionel Messi: 140
+Cristiano Ronaldo: 39 / 140
+Zlatan Ibrahimović: 135
+Andrés Iniesta: 140
+Xavi: 140
+Ronaldinho: 140
+Neymar: 140 / 61
+Wayne Rooney: 39
+Sergio Ramos: 140
+Iker Casillas: 140
+Gianluigi Buffon: 135
+Thierry Henry: 39
+Steven Gerrard: 39
+Frank Lampard: 39
+Kaká: 135
+Robert Lewandowski: 78
+Luis Suárez: 39 / 140
+Karim Benzema: 140
+Robin van Persie: 39
+Didier Drogba: 39
+Andrea Pirlo: 135
+Philipp Lahm: 78
+Xabi Alonso: 140 / 78
+David Villa: 140
+Samuel Eto'o: 140 / 135
+Paolo Maldini: 135
+Francesco Totti: 135
+Alessandro Del Piero: 135
+Ruud van Nistelrooy: 39 / 140
+Fernando Torres: 39 / 140
+Arjen Robben: 78 / 39
+Gareth Bale: 39 / 140
+Raúl: 140
+Carlos Tevez: 39
+Petr Čech: 39
+Michael Ballack: 78 / 39
+Rio Ferdinand: 39
+Nemanja Vidić: 39
+Vincent Kompany: 39
+Paul Scholes: 39
+Clarence Seedorf: 135
+Eden Hazard: 39
+Luka Modric: 140
+Toni Kroos: 78 / 140
+Sergio Agüero: 39
+Zinédine Zidane: 140
+Dani Alves: 140
+Marcelo: 140
+John Terry: 39
+Carles Puyol: 140
+
+{"get":"players","parameters":{"search":"Cristiano Ronaldo","league":"39"},"errors":[],"results":1,"paging":{"current":1,"total":1},"response":[{"player":{"id":874,"name":"Cristiano Ronaldo","firstname":"Cristiano Ronaldo","lastname":"dos Santos Aveiro","age":38,"birth":{"date":"1985-02-05","place":"Funchal","country":"Portugal"},"nationality":"Portugal","height":"187 cm","weight":"83 kg","injured":false,"photo":"https:\/\/media-4.api-sports.io\/football\/players\/874.png"},"statistics":[{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":39,"name":"Premier League","country":"England","logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/39.png","flag":"https:\/\/media-4.api-sports.io\/flags\/gb.svg","season":2022},"games":{"appearences":10,"lineups":4,"minutes":520,"number":null,"position":"Attacker","rating":"6.810000","captain":false},"substitutes":{"in":6,"out":1,"bench":8},"shots":{"total":19,"on":6},"goals":{"total":1,"conceded":0,"assists":null,"saves":null},"passes":{"total":158,"key":6,"accuracy":12},"tackles":{"total":2,"blocks":null,"interceptions":1},"duels":{"total":47,"won":26},"dribbles":{"attempts":7,"success":4,"past":null},"fouls":{"drawn":5,"committed":7},"cards":{"yellow":2,"yellowred":0,"red":0},"penalty":{"won":null,"commited":null,"scored":0,"missed":0,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":39,"name":"Premier League","country":"England","logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/39.png","flag":"https:\/\/media-4.api-sports.io\/flags\/gb.svg","season":2021},"games":{"appearences":30,"lineups":27,"minutes":2459,"number":null,"position":"Attacker","rating":"7.260000","captain":false},"substitutes":{"in":3,"out":6,"bench":3},"shots":{"total":80,"on":43},"goals":{"total":18,"conceded":0,"assists":3,"saves":null},"passes":{"total":879,"key":26,"accuracy":24},"tackles":{"total":8,"blocks":null,"interceptions":2},"duels":{"total":217,"won":88},"dribbles":{"attempts":32,"success":20,"past":null},"fouls":{"drawn":18,"committed":16},"cards":{"yellow":8,"yellowred":0,"red":0},"penalty":{"won":null,"commited":null,"scored":3,"missed":0,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":null,"name":"Premier League","country":null,"logo":null,"flag":null,"season":"2008-2009"},"games":{"appearences":33,"lineups":31,"minutes":2748,"number":null,"position":"Attacker","rating":null,"captain":false},"substitutes":{"in":2,"out":5,"bench":3},"shots":{"total":null,"on":null},"goals":{"total":18,"conceded":null,"assists":null,"saves":null},"passes":{"total":null,"key":null,"accuracy":null},"tackles":{"total":null,"blocks":null,"interceptions":null},"duels":{"total":null,"won":null},"dribbles":{"attempts":null,"success":null,"past":null},"fouls":{"drawn":null,"committed":null},"cards":{"yellow":6,"yellowred":1,"red":0},"penalty":{"won":null,"commited":null,"scored":null,"missed":null,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":null,"name":"Premier League","country":null,"logo":null,"flag":null,"season":"2007-2008"},"games":{"appearences":34,"lineups":31,"minutes":2746,"number":null,"position":"Attacker","rating":null,"captain":false},"substitutes":{"in":3,"out":4,"bench":3},"shots":{"total":null,"on":null},"goals":{"total":31,"conceded":null,"assists":null,"saves":null},"passes":{"total":null,"key":null,"accuracy":null},"tackles":{"total":null,"blocks":null,"interceptions":null},"duels":{"total":null,"won":null},"dribbles":{"attempts":null,"success":null,"past":null},"fouls":{"drawn":null,"committed":null},"cards":{"yellow":5,"yellowred":0,"red":1},"penalty":{"won":null,"commited":null,"scored":null,"missed":null,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":null,"name":"Premier League","country":null,"logo":null,"flag":null,"season":"2006-2007"},"games":{"appearences":34,"lineups":31,"minutes":2725,"number":null,"position":"Attacker","rating":null,"captain":false},"substitutes":{"in":3,"out":11,"bench":4},"shots":{"total":null,"on":null},"goals":{"total":17,"conceded":null,"assists":null,"saves":null},"passes":{"total":null,"key":null,"accuracy":null},"tackles":{"total":null,"blocks":null,"interceptions":null},"duels":{"total":null,"won":null},"dribbles":{"attempts":null,"success":null,"past":null},"fouls":{"drawn":null,"committed":null},"cards":{"yellow":2,"yellowred":0,"red":0},"penalty":{"won":null,"commited":null,"scored":null,"missed":null,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":null,"name":"Premier League","country":null,"logo":null,"flag":null,"season":"2005-2006"},"games":{"appearences":33,"lineups":24,"minutes":2286,"number":null,"position":"Attacker","rating":null,"captain":false},"substitutes":{"in":9,"out":10,"bench":10},"shots":{"total":null,"on":null},"goals":{"total":9,"conceded":null,"assists":null,"saves":null},"passes":{"total":null,"key":null,"accuracy":null},"tackles":{"total":null,"blocks":null,"interceptions":null},"duels":{"total":null,"won":null},"dribbles":{"attempts":null,"success":null,"past":null},"fouls":{"drawn":null,"committed":null},"cards":{"yellow":8,"yellowred":0,"red":1},"penalty":{"won":null,"commited":null,"scored":null,"missed":null,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":null,"name":"Premier League","country":null,"logo":null,"flag":null,"season":"2004-2005"},"games":{"appearences":33,"lineups":25,"minutes":2424,"number":null,"position":"Attacker","rating":null,"captain":false},"substitutes":{"in":8,"out":9,"bench":10},"shots":{"total":null,"on":null},"goals":{"total":5,"conceded":null,"assists":null,"saves":null},"passes":{"total":null,"key":null,"accuracy":null},"tackles":{"total":null,"blocks":null,"interceptions":null},"duels":{"total":null,"won":null},"dribbles":{"attempts":null,"success":null,"past":null},"fouls":{"drawn":null,"committed":null},"cards":{"yellow":3,"yellowred":0,"red":0},"penalty":{"won":null,"commited":null,"scored":null,"missed":null,"saved":null}},{"team":{"id":33,"name":"Manchester United","logo":"https:\/\/media-4.api-sports.io\/football\/teams\/33.png"},"league":{"id":null,"name":"Premier League","country":null,"logo":null,"flag":null,"season":"2003-2004"},"games":{"appearences":29,"lineups":15,"minutes":1548,"number":null,"position":"Attacker","rating":null,"captain":false},"substitutes":{"in":14,"out":6,"bench":18},"shots":{"total":null,"on":null},"goals":{"total":4,"conceded":null,"assists":null,"saves":null},"passes":{"total":null,"key":null,"accuracy":null},"tackles":{"total":null,"blocks":null,"interceptions":null},"duels":{"total":null,"won":null},"dribbles":{"attempts":null,"success":null,"past":null},"fouls":{"drawn":null,"committed":null},"cards":{"yellow":4,"yellowred":1,"red":0},"penalty":{"won":null,"commited":null,"scored":null,"missed":null,"saved":null}}]}]}

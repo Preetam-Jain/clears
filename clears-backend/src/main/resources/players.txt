@@ -2,9 +2,9 @@ Lionel Messi
 Cristiano Ronaldo
 Zlatan Ibrahimović
 Andrés Iniesta
-Xavi Hernández
+Xavi
 Ronaldinho
-Neymar Jr.
+Neymar
 Wayne Rooney
 Sergio Ramos
 Iker Casillas
@@ -12,7 +12,7 @@ Gianluigi Buffon
 Thierry Henry
 Steven Gerrard
 Frank Lampard
-Kaka
+Kaká
 Robert Lewandowski
 Luis Suárez
 Karim Benzema
@@ -30,21 +30,21 @@ Ruud van Nistelrooy
 Fernando Torres
 Arjen Robben
 Gareth Bale
-Raúl González
+Raúl
 Carlos Tevez
-Petr Čech
+Petr Cech
 Michael Ballack
 Rio Ferdinand
-Nemanja Vidić
+Nemanja Vidic
 Vincent Kompany
 Paul Scholes
-Pirlo
+Arturo Vidal
 Clarence Seedorf
 Eden Hazard
-Luka Modrić
+Luka Modric
 Toni Kroos
 Sergio Agüero
-Zinedine Zidane
+Zinédine Zidane
 Dani Alves
 Marcelo
 John Terry
@@ -56,13 +56,13 @@ Harry Kane
 Mohamed Salah
 Virgil van Dijk
 Manuel Neuer
-Eden Hazard
+Klaas-Jan Huntelaar
 Kylian Mbappé
 Kevin De Bruyne
 Erling Haaland
 David Silva
 Yaya Touré
-Angel Di Maria
+Ángel Di María
 Thomas Müller
 Mats Hummels
 Jan Oblak
@@ -74,8 +74,8 @@ Thiago Silva
 David Beckham
 Mauro Icardi
 Alexis Sánchez
-Robert Lewandowski
-Son Heung-min
+Radja Nainggolan
+Heung-min Son
 Jamie Vardy
 Pierre-Emerick Aubameyang
 Romelu Lukaku
@@ -85,41 +85,41 @@ Andrea Barzagli
 Giorgio Chiellini
 Leonardo Bonucci
 Alessandro Nesta
-Eden Hazard
+Javier Pastore
 Christian Eriksen
 Mesut Özil
-Gareth Bale
-Arturo Vidal
+João Félix
+Pepe
 Sergio Busquets
 Gerard Piqué
 Hugo Lloris
 Keylor Navas
 Thibaut Courtois
-Alisson Becker
+Alisson
 Ederson
 Marc-André ter Stegen
-Edin Džeko
+Edin Dzeko
 Radamel Falcao
-Marek Hamšík
+Marek Hamsik
 Riyad Mahrez
 Javier Mascherano
-Pepe
-Ivan Rakitić
-James Rodríguez
+Nicolas Pépé
+Ivan Rakitic
+Memphis Depay
 Bastian Schweinsteiger
 Wesley Sneijder
-Luis Figo
+Luís Figo
 Henrikh Mkhitaryan
 Rui Patrício
-Dani Alves
+Ricardo Pereira
 N'Golo Kanté
-Marcelo
-Gigi Buffon
+Nani
+Samir Handanovič
 Diego Forlán
-David Villa
-Samuel Eto'o
+Carlos Bacca
+Leroy Sané
 Diego Godín
-Andrea Pirlo
+Juan Mata
 Juan Román Riquelme
 Arda Turan
 Ashley Cole
@@ -129,7 +129,7 @@ Diego Costa
 Olivier Giroud
 João Moutinho
 Isco
-Mario Mandžukić
+Mario Mandzukic
 Blaise Matuidi
 Jorginho
 Marco Verratti
@@ -138,42 +138,42 @@ Dele Alli
 Jordan Henderson
 Jack Wilshere
 Lorenzo Insigne
-Miralem Pjanić
+Miralem Pjanic
 Edinson Cavani
 Ciro Immobile
 Bernardo Silva
-Sergio Busquets
-Raphael Varane
-Thiago Alcântara
-Keylor Navas
-Mauro Icardi
+Casemiro
+Raphaël Varane
+Thiago
+Wojciech Szczęsny
+Timo Werner
 Dries Mertens
 Kalidou Koulibaly
-Ivan Perišić
+Ivan Perisic
 Luka Jović
 Ricardo Quaresma
 Emre Can
 Shinji Kagawa
-Gylfi Sigurðsson
+Gylfi Sigurdsson
 Alex Sandro
 César Azpilicueta
 Claudio Marchisio
 Nacho Fernández
-Javier Hernández
+Chicharito
 Julian Draxler
-Leroy Sané
+Lautaro Martínez
 Kingsley Coman
 Joshua Kimmich
 Serge Gnabry
 Koke
 Saúl Ñíguez
 Álvaro Morata
-Dani Carvajal
-Hugo Lloris
+Daniel Carvajal
+Jordan Pickford
 Raphaël Guerreiro
 João Cancelo
 André Gomes
-Éder
+Federico Valverde
 Thomas Lemar
 Lucas Vázquez
 Ansu Fati
@@ -185,11 +185,11 @@ Mason Mount
 Phil Foden
 Declan Rice
 Hakan Çalhanoğlu
-Zlatko Junuzović
+Zlatko Junuzovic
 Florian Thauvin
 Wissam Ben Yedder
 Fabinho
-Alisson Becker
+Kasper Schmeichel
 Roberto Firmino
 Gabriel Jesus
 Allan
